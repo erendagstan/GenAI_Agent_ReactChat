@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-google-genai
+langchainhub
+python-dotenv
+streamlit
+duckduckgo-search
+anthropic
+beautifulsoup4
